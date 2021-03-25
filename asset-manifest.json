@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MarynaYaremenkoSummary/static/css/main.bc8b2f98.chunk.css",
+    "main.js": "/MarynaYaremenkoSummary/static/js/main.af97a1e7.chunk.js",
+    "main.js.map": "/MarynaYaremenkoSummary/static/js/main.af97a1e7.chunk.js.map",
+    "runtime-main.js": "/MarynaYaremenkoSummary/static/js/runtime-main.55a2d102.js",
+    "runtime-main.js.map": "/MarynaYaremenkoSummary/static/js/runtime-main.55a2d102.js.map",
+    "static/js/2.52d62b2e.chunk.js": "/MarynaYaremenkoSummary/static/js/2.52d62b2e.chunk.js",
+    "static/js/2.52d62b2e.chunk.js.map": "/MarynaYaremenkoSummary/static/js/2.52d62b2e.chunk.js.map",
+    "index.html": "/MarynaYaremenkoSummary/index.html",
+    "static/css/main.bc8b2f98.chunk.css.map": "/MarynaYaremenkoSummary/static/css/main.bc8b2f98.chunk.css.map",
+    "static/js/2.52d62b2e.chunk.js.LICENSE.txt": "/MarynaYaremenkoSummary/static/js/2.52d62b2e.chunk.js.LICENSE.txt",
+    "static/media/FaceImage.5fca7f86.jpg": "/MarynaYaremenkoSummary/static/media/FaceImage.5fca7f86.jpg",
+    "static/media/Sprite.aed8e6f7.svg": "/MarynaYaremenkoSummary/static/media/Sprite.aed8e6f7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55a2d102.js",
+    "static/js/2.52d62b2e.chunk.js",
+    "static/css/main.bc8b2f98.chunk.css",
+    "static/js/main.af97a1e7.chunk.js"
+  ]
+}
