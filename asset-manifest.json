@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MarynaYaremenkoSummary/static/css/main.bc8b2f98.chunk.css",
-    "main.js": "/MarynaYaremenkoSummary/static/js/main.af97a1e7.chunk.js",
-    "main.js.map": "/MarynaYaremenkoSummary/static/js/main.af97a1e7.chunk.js.map",
+    "main.js": "/MarynaYaremenkoSummary/static/js/main.c7de6552.chunk.js",
+    "main.js.map": "/MarynaYaremenkoSummary/static/js/main.c7de6552.chunk.js.map",
     "runtime-main.js": "/MarynaYaremenkoSummary/static/js/runtime-main.55a2d102.js",
     "runtime-main.js.map": "/MarynaYaremenkoSummary/static/js/runtime-main.55a2d102.js.map",
     "static/js/2.52d62b2e.chunk.js": "/MarynaYaremenkoSummary/static/js/2.52d62b2e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.55a2d102.js",
     "static/js/2.52d62b2e.chunk.js",
     "static/css/main.bc8b2f98.chunk.css",
-    "static/js/main.af97a1e7.chunk.js"
+    "static/js/main.c7de6552.chunk.js"
   ]
 }
